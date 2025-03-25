@@ -11,10 +11,8 @@ func main() {
 	fmt.Println(" Simple Go Calculator")
 	fmt.Print("Enter first number: ")
 	fmt.Scan(&num1)
-
 	fmt.Print("Enter operator (+, -, *, /): ")
 	fmt.Scan(&operator)
-
 	fmt.Print("Enter second number: ")
 	fmt.Scan(&num2)
 
