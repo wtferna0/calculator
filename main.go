@@ -8,7 +8,7 @@ func main() {
 	var num1, num2 float64
 	var operator string
 
-	fmt.Println("🧮 Simple Go Calculator")
+	fmt.Println(" Simple Go Calculator")
 	fmt.Print("Enter first number: ")
 	fmt.Scan(&num1)
 
